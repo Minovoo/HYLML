@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/picture/log/model.ckpt-999"
+all_model_checkpoint_paths: "D:/picture/log/model.ckpt-200"
+all_model_checkpoint_paths: "D:/picture/log/model.ckpt-400"
+all_model_checkpoint_paths: "D:/picture/log/model.ckpt-600"
+all_model_checkpoint_paths: "D:/picture/log/model.ckpt-800"
+all_model_checkpoint_paths: "D:/picture/log/model.ckpt-999"
